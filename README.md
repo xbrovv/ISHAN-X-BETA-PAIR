@@ -1,4 +1,4 @@
- ## Arslan Pairing Site
+ ## ISHAN-X-BETA-PAIR
  * QR code pair
  * 8 digit pair codes
 
@@ -6,8 +6,9 @@
 * [Heroku](  https://heroku.com/deploy?template=https://github.com/Arslan-MD/Arslan-Pairing-Site)
  
  all regards to
- > ArslanMD Official
+ > ISHANMD Official
 >
 >
 > 
- > Arslan Tech
+ > ISHAN-X Tech
+
